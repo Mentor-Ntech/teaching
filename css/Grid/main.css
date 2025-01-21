@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #dddfe0;
+}
+
+.grid-container {
+    display: grid;
+    /* grid-template-columns: 1fr 1fr 1fr; */
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 100px;
+    gap: 20px;
+}
+
+.item {
+    background-color: orange;
+    border: 1px solid black;
+}
