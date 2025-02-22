@@ -35,3 +35,18 @@ let user = {firstname: "Naheem", lastname: "Oloyede"}
 
 let getScore = score
 console.log(getScore);
+
+
+//DATA TYPES CATEGORIES.
+/*
+Primitive Data types
+
+string, Boolean, Number, null, undefined, Symbol
+
+Non-Primitive
+
+    Object
+
+    object sub divide to
+Object, Array, functions
+*/
